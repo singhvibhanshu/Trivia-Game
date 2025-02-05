@@ -18,7 +18,7 @@ def trivia_game():
     # Convert dictionary keys (questions) into a list
     questions_list = list(questions.keys())
     
-    total_questions = 3  # Number of questions to ask
+    total_questions = 7  # Number of questions to ask
     score = 0  # Initialize score counter
 
     # Randomly select a specified number of questions from the list
